@@ -1,0 +1,8 @@
+x + y =43
+x - y =-1
+x * y =462
+x / y =0
+x % y =21
+Arithmatic promotion result:30
+addition:10
+Multiplication:24
