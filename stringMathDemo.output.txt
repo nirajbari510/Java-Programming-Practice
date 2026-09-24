@@ -1,0 +1,14 @@
+Concatenation: Bari Niraj
+ length of str1:4
+Character of index 1:a
+substringof str2(0-3:Nir
+Equals? str1 and str2:false
+Uppercase str1:BARI
+square rootrof a;4.0
+a raised to b;28526.20085808741
+Mix of a and b;16.0
+min of a and b;3.7
+Random number(0-1);0.5756302854135028
+Random number(20-1);25.94646789592197
+floor number(30-100);-61.2757825478237
+cell of b;4.0
