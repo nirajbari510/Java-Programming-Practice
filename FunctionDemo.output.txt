@@ -1,0 +1,7 @@
+Addition of two integers: 15
+Addition of three integers: 30
+Addition of two double : 10.0
+Name: unknown Age: 0
+Name: Niraj Age: 19
+Name: Niraj Age: 19
+Student s4 details (reference to s2):
